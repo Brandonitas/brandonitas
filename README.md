@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Brandon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Brandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Brandon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -37,7 +37,10 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brandonitas&show_icons=true&hide_border=true" />
+<img align="left" alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brandonitas&show_icons=true&hide_border=true" />
+
+<img align="left" alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonitas&layout=compact&hide=java,c" />
+
 
 [mymentorwebsite]: https://mymentor.app
 [twitter]: https://twitter.com/brandonitas
