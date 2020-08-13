@@ -39,7 +39,7 @@
 
 <img align="left" alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brandonitas&show_icons=true&hide_border=true" />
 
-<img align="left" alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonitas&layout=compact&hide=java,c" />
+<img align="left" alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonitas&layout=compact&hide=java,c&hide_border=true" />
 
 
 [mymentorwebsite]: https://mymentor.app
