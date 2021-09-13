@@ -3,8 +3,7 @@
 ## I'm a Developer, Designer and Entrepreneur!
 - 🔭 I’m currently working as a Front End developer
 - 🌱 I’m currently learning everything 
-- 📝 I have an education startup [MyMentor][mymentorwebsite]
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play videogames 🎮
 
 ### Connect with me:
