@@ -1,16 +1,17 @@
 ### Hi there, I'm Brandon 👋
 
 ## I'm a Developer, Designer and Entrepreneur!
-- 🔭 I’m currently working as a Front End developer
-- 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play videogames 🎮
+- 🔭 I’m currently working as a Sr. FrontEnd developer
+- 🌱 I’m currently learning Web3.0  
+- 🥅 2022 Goals: Contribute more to Open Source projects and make more Web3.0 projects 
+- ⚡ Fun fact: I make programming tutorial videos 📹
 
 ### Connect with me:
 
 [<img align="left" alt="Brandon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Brandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Brandon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Brandon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -40,7 +41,7 @@
 <img align="left" alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonitas&layout=compact&hide=java,c&hide_border=true" />
 
 
-[mymentorwebsite]: https://mymentor.app
-[twitter]: https://twitter.com/brandonitas
-[instagram]: https://instagram.com/brandonitas
+[twitter]: https://twitter.com/brandonitas_dev
+[instagram]: https://instagram.com/brandonitas.dev
 [linkedin]: https://www.linkedin.com/in/brandon-reyes-minero-a5186014a/
+[youtube]: https://www.youtube.com/channel/UC305ojS1LahIlrKdTyuOxAg
