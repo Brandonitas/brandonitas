@@ -41,7 +41,7 @@
 <img align="left" alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonitas&layout=compact&hide=java,c&hide_border=true" />
 
 
-[twitter]: https://twitter.com/brandonitas_dev
+[twitter]: https://twitter.com/brandonitas
 [instagram]: https://instagram.com/brandonitas.dev
 [linkedin]: https://www.linkedin.com/in/brandon-reyes-minero-a5186014a/
 [youtube]: https://www.youtube.com/channel/UC305ojS1LahIlrKdTyuOxAg
