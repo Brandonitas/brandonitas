@@ -36,9 +36,6 @@
 <br />
 <br />
 
-<img align="left" alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brandonitas&show_icons=true&hide_border=true" />
-
-
 
 [twitter]: https://twitter.com/brandonitas
 [instagram]: https://instagram.com/brandonitas.dev
