@@ -3,7 +3,7 @@
 ## I'm a Developer, Designer and Entrepreneur!
 - 🔭 I’m currently working as a Sr. FrontEnd developer
 - 🌱 I’m currently learning Web3.0  
-- 🥅 2023 Goals: Contribute more to Open Source projects and make more Web3.0 projects 
+- 🥅 2024 Goals: Create more side projects that contribute to the community
 - ⚡ Fun fact: I make programming tutorial videos 📹
 
 ### Connect with me:
