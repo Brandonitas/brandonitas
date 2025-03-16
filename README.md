@@ -1,10 +1,8 @@
 ### Hi there, I'm Brandon 👋
 
 ## I'm a Developer, Designer and Entrepreneur!
-- 🔭 I’m currently working as a Sr. FrontEnd developer
-- 🌱 I’m currently learning Web3.0  
-- 🥅 2024 Goals: Create more side projects that contribute to the community
-- ⚡ Fun fact: I make programming tutorial videos 📹
+- 🔭 I’m currently working as a Frontend Tech Leader
+- 🥅 2025 Goals: Create more side projects that contribute to the community
 
 ### Connect with me:
 
